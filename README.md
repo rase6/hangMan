@@ -14,11 +14,11 @@ _ a _ _ m
 
 To download and run the Hangman game on your local machine, follow these steps:
 
-1. Clone the repository using the following command: git clone https://github.com/rase6/hangMan.git
-2. Navigate to the project directory: cd hangman-game
-3. Ensure you have Python 3 installed on your system. You can check your Python version by running: python3 --version
-4. Run the game using the following command: python3 HangManGame.py
-5. Enjoy playing Hangman! Follow the instructions displayed on the screen to enter your guesses and try to guess the hidden word before running out of attempts.
+1. Clone the repository using the following command: `git clone https://github.com/rase6/hangMan.git`
+2. Navigate to the project directory: `cd <directory name>`
+4. Ensure you have Python 3 installed on your system. You can check your Python version by running: `python3 --version`
+5. Run the game using the following command: `python3 HangManGame.py`
+6. Enjoy playing Hangman! Follow the instructions displayed on the screen to enter your guesses and try to guess the hidden word before running out of attempts.
 
 # Game Features
 • The game starts with a welcome message and prompts you to enter your name.

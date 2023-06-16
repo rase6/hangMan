@@ -6,7 +6,7 @@ class HangmanGame:
     def __init__(self):
         # Initialize the game with necessary variables
         self.words_to_guess = ["chocolates", "books", "photography", "cinema", "city", "peace", "magazines", "toys", "songs", "parents", "legos"]
-        self.limit = 10 # Number of guesses allowed
+        self.limit = 5 # Number of guesses allowed
         self.count = 0  # Current number of incorrect guesses
         self.already_guessed = []  # List to store already guessed letters
         self.word = ""    # Word to be guessed
